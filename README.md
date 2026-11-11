@@ -7,7 +7,7 @@ I'm interested in data science, artificial intelligence, cybersecurity, and soft
 
 ## 🌐 Live Portfolio Website
 
-**[View My Professional Portfolio](https://karmansandhanwalia-art.github.io/data-science-portfolio/)**
+**[View My Professional Portfolio](https://karmansandhanwalia-art.github.io/)**
 
 ## 👨‍💻 About Me
 
@@ -25,6 +25,7 @@ My goal is to gain practical experience through internships and continue buildin
 ## 📂 Featured Projects
 
 ### 🎮 Crossy Road Game
+
 An interactive arcade-style game featuring player movement, moving vehicles, collision detection, and scoring.
 
 **Technologies:** HTML, CSS, JavaScript
@@ -32,6 +33,7 @@ An interactive arcade-style game featuring player movement, moving vehicles, col
 [Play Crossy Road](projects/crossy-road/index.html)
 
 ### 🎵 Spotify Music Data Analysis
+
 A Python-based exploratory data analysis project examining music trends through data cleaning, statistical summaries, and visualizations.
 
 **Technologies:** Python, Pandas, Matplotlib
@@ -41,6 +43,7 @@ A Python-based exploratory data analysis project examining music trends through 
 *The reconstructed analysis uses synthetic sample data.*
 
 ### 🧩 Interactive Crossword Puzzle
+
 A browser-based crossword puzzle featuring programming-related clues, interactive gameplay, answer checking, and reset controls.
 
 **Technologies:** HTML, CSS, JavaScript
@@ -48,6 +51,7 @@ A browser-based crossword puzzle featuring programming-related clues, interactiv
 [Play Crossword](projects/crossword/index.html)
 
 ### ♠️ Poker Strategy Game
+
 An educational programming project exploring poker gameplay, decision-making, and strategy.
 
 **Technologies:** Python
@@ -78,8 +82,8 @@ I'm interested in internship opportunities involving data science, software deve
 
 **GitHub:** [karmansandhanwalia-art](https://github.com/karmansandhanwalia-art)
 
-**Portfolio:** [Visit My Website](https://karmansandhanwalia-art.github.io/data-science-portfolio/)
+**Portfolio:** [Visit My Website](https://karmansandhanwalia-art.github.io/)
 
 ---
 
-*Thank you for visiting my portfolio!*      
+*Thank you for visiting my portfolio!*
